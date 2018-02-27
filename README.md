@@ -9,7 +9,7 @@ Usage
 1. Install it:
     - Using [Composer] (it will automatically install Whoops main libraries as well):
     ```shell
-    composer require tianye/yii-whoops:1
+    composer require tianye/yii-whoops ~1.0
     composer install
     ```
     - Or [downloading] and unpacking it in your `extensions` folder.
