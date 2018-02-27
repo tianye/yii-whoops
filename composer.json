@@ -2,16 +2,12 @@
     "name": "tianye/yii-whoops",
     "description": "Whoops integration class into Yii Framework 1.1",
     "license": "MIT",
-    "version": "1.0.0",
-    "minimum-stability": "dev",
-
     "authors": [
         {
             "name": "Tianye",
             "email": "96tianye@gmail.com"
         }
     ],
-
     "require": {
         "filp/whoops": "1.*",
         "yiisoft/yii": "1.1.*"
